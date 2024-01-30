@@ -4,3 +4,6 @@ target/
 *.iml
 *.log
 tmp/
+httpsrvimg
+wrk_build
+mods
